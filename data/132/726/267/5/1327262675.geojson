@@ -100,7 +100,7 @@
         "wk:page":"Le_Carbet"
     },
     "wof:country":"MQ",
-    "wof:geomhash":"77daba2e544a03a3e2992986ec34faef",
+    "wof:geomhash":"0c2f7b7b5cec681700438c7869b779ee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -125,5 +125,5 @@
     -61.18196999999999,
     14.71129
 ],
-  "geometry": {"coordinates":[-61.18196999999999,14.71129],"type":"Point"}
+  "geometry": {"coordinates":[-61.18197,14.71129],"type":"Point"}
 }

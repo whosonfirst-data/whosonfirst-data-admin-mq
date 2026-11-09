@@ -94,7 +94,7 @@
         "wk:page":"Case-Pilote"
     },
     "wof:country":"MQ",
-    "wof:geomhash":"cf7f36012a33f26bc3594a3f8d79539f",
+    "wof:geomhash":"23e61cb27e527af15ebb04d1c783ae2b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -119,5 +119,5 @@
     -61.13896999999999,
     14.64309
 ],
-  "geometry": {"coordinates":[-61.13896999999999,14.64309],"type":"Point"}
+  "geometry": {"coordinates":[-61.13897,14.64309],"type":"Point"}
 }

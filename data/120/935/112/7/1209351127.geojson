@@ -52,7 +52,7 @@
         "gn:id":3570701
     },
     "wof:country":"MQ",
-    "wof:geomhash":"5a8f06cc3666598530dbf9fad93743cf",
+    "wof:geomhash":"4292b9257fa04ebe7e222c9471b486ca",
     "wof:hierarchy":[
         {
             "locality_id":1209351127,
@@ -75,5 +75,5 @@
     -61.11128000000001,
     14.62819
 ],
-  "geometry": {"coordinates":[-61.11128000000001,14.62819],"type":"Point"}
+  "geometry": {"coordinates":[-61.11128,14.62819],"type":"Point"}
 }

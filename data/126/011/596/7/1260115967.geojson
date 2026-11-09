@@ -48,7 +48,7 @@
         "gn:id":3571019
     },
     "wof:country":"MQ",
-    "wof:geomhash":"48c73d24bea5850e81d63f676aa89d72",
+    "wof:geomhash":"dd1f8040428fa0136c8647f69820df39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     -60.95806999999999,
     14.72571
 ],
-  "geometry": {"coordinates":[-60.95806999999999,14.72571],"type":"Point"}
+  "geometry": {"coordinates":[-60.95807,14.72571],"type":"Point"}
 }
