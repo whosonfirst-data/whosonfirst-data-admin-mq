@@ -1,0 +1,71 @@
+{
+  "id": 9895090398,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.84992,14.54863,-60.84992,14.54863",
+    "geom:latitude":14.54863,
+    "geom:longitude":-60.84992,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438434: name \"Belle \u00c9toile\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438434"
+        },
+        {
+            "citation":"GeoNames populated place 13438434: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438434"
+        },
+        {
+            "citation":"GeoNames populated place 13438434: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438434"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376509 (Arrondissement du Marin), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125376509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438434
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"d35ba3a5ba70be50fdaa946a4053c0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376509,
+            "locality_id":9895090398,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090398,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Belle \u00c9toile",
+    "wof:parent_id":1125376509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.84992,
+    14.54863,
+    -60.84992,
+    14.54863
+],
+  "geometry": {"coordinates":[-60.84992,14.54863],"type":"Point"}
+}

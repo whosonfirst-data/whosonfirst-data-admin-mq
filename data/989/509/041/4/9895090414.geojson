@@ -1,0 +1,76 @@
+{
+  "id": 9895090414,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.04125,14.75629,-61.04125,14.75629",
+    "geom:latitude":14.75629,
+    "geom:longitude":-61.04125,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438965: name \"Rivi\u00e8re Blanche\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438965"
+        },
+        {
+            "citation":"GeoNames populated place 13438965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438965"
+        },
+        {
+            "citation":"GeoNames populated place 13438965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438965"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376519 (Arrondissement de La Trinit\u00e9), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671191,
+        102191581,
+        136253037,
+        1125376519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438965
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"ef3c3c4afe4cb05b913714a8eed1cf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125376519,
+            "locality_id":9895090414,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":9895090414,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Rivi\u00e8re Blanche",
+    "wof:parent_id":1125376519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.04125,
+    14.75629,
+    -61.04125,
+    14.75629
+],
+  "geometry": {"coordinates":[-61.04125,14.75629],"type":"Point"}
+}

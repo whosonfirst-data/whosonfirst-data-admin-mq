@@ -1,0 +1,71 @@
+{
+  "id": 9895090399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.88223,14.56792,-60.88223,14.56792",
+    "geom:latitude":14.56792,
+    "geom:longitude":-60.88223,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438435: name \"L\u00e0-Haut\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438435"
+        },
+        {
+            "citation":"GeoNames populated place 13438435: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438435"
+        },
+        {
+            "citation":"GeoNames populated place 13438435: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438435"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376509 (Arrondissement du Marin), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125376509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438435
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"be0307fdeb2b816f10d8e79da4ef0853",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376509,
+            "locality_id":9895090399,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090399,
+    "wof:lastmodified":1795746149,
+    "wof:name":"L\u00e0-Haut",
+    "wof:parent_id":1125376509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.88223,
+    14.56792,
+    -60.88223,
+    14.56792
+],
+  "geometry": {"coordinates":[-60.88223,14.56792],"type":"Point"}
+}

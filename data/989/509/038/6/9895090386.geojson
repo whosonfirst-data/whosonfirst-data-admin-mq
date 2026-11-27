@@ -1,0 +1,71 @@
+{
+  "id": 9895090386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02281,14.63554,-61.02281,14.63554",
+    "geom:latitude":14.63554,
+    "geom:longitude":-61.02281,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6605750: name \"Martinique\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6605750"
+        },
+        {
+            "citation":"GeoNames populated place 6605750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6605750"
+        },
+        {
+            "citation":"GeoNames populated place 6605750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6605750"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376527 (Arrondissement de Fort-de-France), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125376527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6605750
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"2770f6f8dbd20418a5aa454533e35c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376527,
+            "locality_id":9895090386,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090386,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Martinique",
+    "wof:parent_id":1125376527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02281,
+    14.63554,
+    -61.02281,
+    14.63554
+],
+  "geometry": {"coordinates":[-61.02281,14.63554],"type":"Point"}
+}

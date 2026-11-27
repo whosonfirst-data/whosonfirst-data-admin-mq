@@ -1,0 +1,72 @@
+{
+  "id": 9895093035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.99964,14.61341,-60.99964,14.61341",
+    "geom:latitude":14.61341,
+    "geom:longitude":-60.99964,
+    "gn:population":40581,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3570428: name \"Le Lamentin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3570428"
+        },
+        {
+            "citation":"GeoNames populated place 3570428: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3570428"
+        },
+        {
+            "citation":"GeoNames populated place 3570428: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3570428"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376527 (Arrondissement de Fort-de-France), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125376527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570428
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"bb746488f5a3fcc4f949ab07d9ca80a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376527,
+            "locality_id":9895093035,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895093035,
+    "wof:lastmodified":1795747263,
+    "wof:name":"Le Lamentin",
+    "wof:parent_id":1125376527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.99964,
+    14.61341,
+    -60.99964,
+    14.61341
+],
+  "geometry": {"coordinates":[-60.99964,14.61341],"type":"Point"}
+}

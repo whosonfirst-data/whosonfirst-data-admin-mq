@@ -1,0 +1,76 @@
+{
+  "id": 9895090376,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.13199,14.85867,-61.13199,14.85867",
+    "geom:latitude":14.85867,
+    "geom:longitude":-61.13199,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3570570: name \"Hauteurs Dumas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3570570"
+        },
+        {
+            "citation":"GeoNames populated place 3570570: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3570570"
+        },
+        {
+            "citation":"GeoNames populated place 3570570: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3570570"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376519 (Arrondissement de La Trinit\u00e9), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671191,
+        102191581,
+        136253037,
+        1125376519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570570
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"410055dc03d6c9ccadb209b33934aff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125376519,
+            "locality_id":9895090376,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":9895090376,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Hauteurs Dumas",
+    "wof:parent_id":1125376519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.13199,
+    14.85867,
+    -61.13199,
+    14.85867
+],
+  "geometry": {"coordinates":[-61.13199,14.85867],"type":"Point"}
+}

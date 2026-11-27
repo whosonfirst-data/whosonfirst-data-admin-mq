@@ -1,0 +1,71 @@
+{
+  "id": 9895090368,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.14318,14.76028,-61.14318,14.76028",
+    "geom:latitude":14.76028,
+    "geom:longitude":-61.14318,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3569777: name \"Zobe\u00efde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3569777"
+        },
+        {
+            "citation":"GeoNames populated place 3569777: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3569777"
+        },
+        {
+            "citation":"GeoNames populated place 3569777: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3569777"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376503 (Arrondissement de Saint-Pierre), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125376503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569777
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"9247a164a221c445e662ce5272f23b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376503,
+            "locality_id":9895090368,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090368,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Zobe\u00efde",
+    "wof:parent_id":1125376503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.14318,
+    14.76028,
+    -61.14318,
+    14.76028
+],
+  "geometry": {"coordinates":[-61.14318,14.76028],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895093034,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94228,14.67751,-60.94228,14.67751",
+    "geom:latitude":14.67751,
+    "geom:longitude":-60.94228,
+    "gn:population":23814,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3570412: name \"Le Robert\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3570412"
+        },
+        {
+            "citation":"GeoNames populated place 3570412: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3570412"
+        },
+        {
+            "citation":"GeoNames populated place 3570412: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3570412"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376519 (Arrondissement de La Trinit\u00e9), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671191,
+        102191581,
+        136253037,
+        1125376519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570412
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"1bf6524176b6b808c2c931107058f601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125376519,
+            "locality_id":9895093034,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":9895093034,
+    "wof:lastmodified":1795747263,
+    "wof:name":"Le Robert",
+    "wof:parent_id":1125376519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94228,
+    14.67751,
+    -60.94228,
+    14.67751
+],
+  "geometry": {"coordinates":[-60.94228,14.67751],"type":"Point"}
+}

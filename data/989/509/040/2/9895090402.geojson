@@ -1,0 +1,76 @@
+{
+  "id": 9895090402,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95658,14.73368,-60.95658,14.73368",
+    "geom:latitude":14.73368,
+    "geom:longitude":-60.95658,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438492: name \"Br\u00e9sil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438492"
+        },
+        {
+            "citation":"GeoNames populated place 13438492: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438492"
+        },
+        {
+            "citation":"GeoNames populated place 13438492: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438492"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125340575 (La Trinit\u00e9), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671191,
+        102191581,
+        136253037,
+        1125340575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438492
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"f195feb63a2812530d987d40c885ba89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125340575,
+            "locality_id":9895090402,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":9895090402,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Br\u00e9sil",
+    "wof:parent_id":1125340575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95658,
+    14.73368,
+    -60.95658,
+    14.73368
+],
+  "geometry": {"coordinates":[-60.95658,14.73368],"type":"Point"}
+}

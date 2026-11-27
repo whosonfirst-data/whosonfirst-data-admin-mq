@@ -1,0 +1,76 @@
+{
+  "id": 9895090392,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93812,14.53913,-60.93812,14.53913",
+    "geom:latitude":14.53913,
+    "geom:longitude":-60.93812,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438335: name \"La Suffrin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438335"
+        },
+        {
+            "citation":"GeoNames populated place 13438335: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438335"
+        },
+        {
+            "citation":"GeoNames populated place 13438335: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438335"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372299 (Rivi\u00e8re-Sal\u00e9e), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671191,
+        102191581,
+        136253037,
+        1125372299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438335
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"36ef0cb67d48902c0aba54640817f141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125372299,
+            "locality_id":9895090392,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":9895090392,
+    "wof:lastmodified":1795746149,
+    "wof:name":"La Suffrin",
+    "wof:parent_id":1125372299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93812,
+    14.53913,
+    -60.93812,
+    14.53913
+],
+  "geometry": {"coordinates":[-60.93812,14.53913],"type":"Point"}
+}

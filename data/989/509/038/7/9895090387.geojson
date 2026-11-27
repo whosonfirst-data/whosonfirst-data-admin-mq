@@ -1,0 +1,71 @@
+{
+  "id": 9895090387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.07158,14.47117,-61.07158,14.47117",
+    "geom:latitude":14.47117,
+    "geom:longitude":-61.07158,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438322: name \"L'Anse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438322"
+        },
+        {
+            "citation":"GeoNames populated place 13438322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438322"
+        },
+        {
+            "citation":"GeoNames populated place 13438322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438322"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376509 (Arrondissement du Marin), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125376509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438322
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"0dc091bea305928edeb05ce045cc4f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376509,
+            "locality_id":9895090387,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090387,
+    "wof:lastmodified":1795746149,
+    "wof:name":"L'Anse",
+    "wof:parent_id":1125376509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.07158,
+    14.47117,
+    -61.07158,
+    14.47117
+],
+  "geometry": {"coordinates":[-61.07158,14.47117],"type":"Point"}
+}

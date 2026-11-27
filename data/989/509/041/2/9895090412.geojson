@@ -1,0 +1,76 @@
+{
+  "id": 9895090412,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05711,14.80121,-61.05711,14.80121",
+    "geom:latitude":14.80121,
+    "geom:longitude":-61.05711,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438855: name \"Fond Lorrain\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438855"
+        },
+        {
+            "citation":"GeoNames populated place 13438855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438855"
+        },
+        {
+            "citation":"GeoNames populated place 13438855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438855"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376519 (Arrondissement de La Trinit\u00e9), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671191,
+        102191581,
+        136253037,
+        1125376519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438855
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"dee940c72756879a26258d3283b2a736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125376519,
+            "locality_id":9895090412,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":9895090412,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Fond Lorrain",
+    "wof:parent_id":1125376519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05711,
+    14.80121,
+    -61.05711,
+    14.80121
+],
+  "geometry": {"coordinates":[-61.05711,14.80121],"type":"Point"}
+}

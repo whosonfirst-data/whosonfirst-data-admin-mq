@@ -1,0 +1,76 @@
+{
+  "id": 9895090404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02441,14.69917,-61.02441,14.69917",
+    "geom:latitude":14.69917,
+    "geom:longitude":-61.02441,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438495: name \"Bon Air\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438495"
+        },
+        {
+            "citation":"GeoNames populated place 13438495: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438495"
+        },
+        {
+            "citation":"GeoNames populated place 13438495: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438495"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125316223 (Le Gros-Morne), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671191,
+        102191581,
+        136253037,
+        1125316223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438495
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"1404919b4bceaa37fd7280ce6b18e8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125316223,
+            "locality_id":9895090404,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":9895090404,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Bon Air",
+    "wof:parent_id":1125316223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02441,
+    14.69917,
+    -61.02441,
+    14.69917
+],
+  "geometry": {"coordinates":[-61.02441,14.69917],"type":"Point"}
+}

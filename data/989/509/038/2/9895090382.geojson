@@ -1,0 +1,71 @@
+{
+  "id": 9895090382,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.15681,14.7021,-61.15681,14.7021",
+    "geom:latitude":14.7021,
+    "geom:longitude":-61.15681,
+    "iso:country":"MQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3571072: name \"Bel \u00c9vent\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3571072"
+        },
+        {
+            "citation":"GeoNames populated place 3571072: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3571072"
+        },
+        {
+            "citation":"GeoNames populated place 3571072: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3571072"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376503 (Arrondissement de Saint-Pierre), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125376503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571072
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"e5b559b87d9992e86cb901152b2ab8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376503,
+            "locality_id":9895090382,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090382,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Bel \u00c9vent",
+    "wof:parent_id":1125376503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.15681,
+    14.7021,
+    -61.15681,
+    14.7021
+],
+  "geometry": {"coordinates":[-61.15681,14.7021],"type":"Point"}
+}
